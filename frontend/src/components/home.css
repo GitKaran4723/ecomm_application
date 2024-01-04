@@ -1,0 +1,23 @@
+.tag-name{
+    margin: 30px;
+    font-size: 100px;
+    margin-bottom: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bottom-tag{
+    text-align: right;
+    margin-right: 40px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sentence{
+    text-align:center;
+}
+/* .container{
+    background-image: url('../images/background/background.jpeg');
+    background-size: cover;
+    height: 100vh;
+  } */
+

@@ -1,0 +1,55 @@
+/* CustomerForm.css */
+
+/* Style the container div */
+.CustomerForm {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10%;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dfeced;
+  }
+  
+  /* Style the form heading */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style form labels */
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  /* Style form input fields and textarea */
+  input[type="text"],
+  input[type="number"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the submit button */
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Style the submit button on hover */
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  

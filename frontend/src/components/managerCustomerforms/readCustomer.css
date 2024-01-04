@@ -1,0 +1,25 @@
+.body-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 85vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dfeced;
+}
+.data-container{
+    background-color: #fff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+    padding: 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+.heading-details{
+    font-size: 50px;
+    text-decoration: underline solid;
+}
+a{
+    color: block;
+}
+
+

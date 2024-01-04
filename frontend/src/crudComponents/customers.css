@@ -1,0 +1,106 @@
+/* Home.css */
+
+.customer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .crud-form-container {
+    margin-top: 10px;
+    width: auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .create-button {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  .btn a{
+    text-decoration: none;
+    color: rgb(251, 250, 250);
+    font-weight: bold;
+  }
+  
+  .table th {
+    background-color: #3498db;
+    color: #fff;
+    text-align: left;
+  }
+  
+  .table th,
+  .table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .table button {
+    margin-right: 5px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  .btn{
+    width: 60px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+
+  .delete{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+  }
+
+  .edit{
+    background-color: green;
+    color: white;
+  }
+
+  .read{
+    background-color: blue;
+    color: white;
+  }
+
+  .btn-success{
+    background-color: green;
+    height: 30px;
+    width: 90px;
+  }
+  .edit-button-img{
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+  }
+  .delete-Icon-btn{
+    width: 40px;
+    height: 40px;
+  }
+  .delete-Icon-btn:hover{
+    cursor: pointer;
+  }
+  .create-icon{
+    width: 40px;
+    height: 40px;
+  }
+  .create-icon:hover{
+    width: 45px;
+    height: 45px;
+    cursor: pointer;
+
+  }
+
+
+
+  

@@ -1,0 +1,49 @@
+/* Navbar.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #01004e;
+    border: solid rgb(76, 39, 244) 2px ;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+    padding: 10px 20px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    height: 70px;
+}
+
+
+  .navbar-logo {
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    color: rgb(248, 244, 244);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    text-shadow: 2px 2px 20px rgba(226, 239, 51, 1);
+  }
+
+  .logo{
+    width: 200px;
+    height: 80px;
+    border-radius: 6px;
+  }
+  
+  /* Add more styling as needed */
